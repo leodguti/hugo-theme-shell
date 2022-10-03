@@ -12,7 +12,7 @@ theme = "hugo-theme-shell"
   # Note: hugo-theme-shell original: ["shell-powershell", "shell-ubuntu", "shell-retro"]
   # Note: or
   # Note: gogh theme: https://mayccoll.github.io/Gogh/
-  scheme = "retro"
+  scheme = "shell-retro"
 
   # Note: in terminal
   # [userName]@[pcName]:~/$ cd [workDir]
