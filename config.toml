@@ -1,4 +1,4 @@
-baseURL = "https://hugo-theme-shell.netlify.app/"
+baseURL = "https://leodguti.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "shell-retro"
@@ -12,7 +12,7 @@ theme = "shell-retro"
   # Note: hugo-theme-shell original: ["shell-powershell", "shell-ubuntu", "shell-retro"]
   # Note: or
   # Note: gogh theme: https://mayccoll.github.io/Gogh/
-  scheme = "shell-retro"
+  scheme ="shell-retro"
 
   # Note: in terminal
   # [userName]@[pcName]:~/$ cd [workDir]
