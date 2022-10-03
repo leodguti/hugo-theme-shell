@@ -28,7 +28,7 @@ theme = "hugo-theme-shell"
   userName = "leo"
   pcName = "ubuntu"
   workDir = "mydir"
-  profile = "profile.txt"
+  profile = "aboutme.txt"
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
@@ -63,7 +63,7 @@ theme = "hugo-theme-shell"
 
   [Params.Tree]
   use = true
-  folderName = "about_me"
+  folderName = "my_activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["LinkedIn", "https://www.linkedin.com/in/leonardo-gutierrez-073aa012b/"],
