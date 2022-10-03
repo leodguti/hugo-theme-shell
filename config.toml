@@ -26,7 +26,7 @@ theme = "hugo-theme-shell"
   # ...
   # Note: result of the tree command
   userName = "leo"
-  pcName = "laptop"
+  pcName = "ubuntu"
   workDir = "mydir"
   profile = "profile.txt"
 
@@ -63,7 +63,7 @@ theme = "hugo-theme-shell"
 
   [Params.Tree]
   use = true
-  folderName = "my_activity"
+  folderName = "about_me"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["LinkedIn", "https://www.linkedin.com/in/leonardo-gutierrez-073aa012b/"],
