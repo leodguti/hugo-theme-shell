@@ -66,7 +66,7 @@ theme = "retro"
   folderName = "my_activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["C/C++", "https://www.example.com/"],
+    ["LinkedIn", "https://www.linkedin.com/in/leonardo-gutierrez-073aa012b/"],
     ["Python", "https://www.example.com/"],
     ["Go", "https://golang.org/"],
     ["Hugo", "/post/some-activity.md"],
