@@ -7,7 +7,7 @@ theme = "hugo-theme-shell"
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
   description = "Leo's Portfolio!"
   [Params.Terminal]
-    schema = "shell-retro"
+    schema = "retro"
   # Note: color scheme
   # Note: You can choose between
   # Note: hugo-theme-shell original: ["shell-powershell", "shell-ubuntu", "shell-retro"]
