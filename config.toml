@@ -1,6 +1,6 @@
 baseURL = "https://leodguti.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Leo's Shell"
 theme = "hugo-theme-shell"
 
 [Params]
@@ -52,7 +52,7 @@ theme = "hugo-theme-shell"
   # activityDelay = 5 : deprecated
 
   description = """
-  Hi I am Leonardo Gutierrez!
+  Hi I am Leonardo!
   Nice to meet you!
   
   """
