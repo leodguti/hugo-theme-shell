@@ -1,4 +1,4 @@
-baseURL = "https://hugo-theme-shell.netlify.app//"
+baseURL = "https://leodguti.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "retro-shell"
