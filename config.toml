@@ -1,3 +1,8 @@
+baseURL = "https://hugo-theme-shell.netlify.app//"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "retro-shell"
+
 [Params]
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
   description = "Leo's Portfolio!"
