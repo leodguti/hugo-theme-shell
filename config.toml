@@ -70,5 +70,5 @@ theme = "hugo-theme-shell"
     ["Python", "https://www.example.com/"],
     ["Go", "https://golang.org/"],
     ["Hugo", "/post/some-activity.md"],
-    ["Docker", "/post/some-activity.md"],
+    ["GitHub", "https://github.com/leodguti"],
   ]
