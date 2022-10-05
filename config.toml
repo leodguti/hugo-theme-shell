@@ -70,5 +70,5 @@ theme = "hugo-theme-shell"
     ["Twitter", "https://twitter.com/leodguti/"],
     ["Blog..Updating", "https://leodguti.github.io//"],
     ["TryHackMe", "https://tryhackme.com/p/lgutie25/"],
-    ["GitHub", "https://github.com/leodguti"],
+    #["GitHub", "https://github.com/leodguti"],
   ]
