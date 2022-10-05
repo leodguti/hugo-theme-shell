@@ -52,9 +52,9 @@ theme = "hugo-theme-shell"
   # activityDelay = 5 : deprecated
 
   description = """
-Hello! My name is Leonardo, and I go by the handle leodguti.
+Hello! My name is Leonardo,
 I'm generally interested in threat hunting, and I work primarily as a System Administrator while continuing to hone my Python and PowerShell scripting skills. 
-While attempting to break into the Information Security industry, I am pursuing my Associates in Cyber Security at a community college.
+While attempting to break into the Information Security industry, I am pursuing my AAS in Cyber Security.
 In addition, I participate in Hack The Box and other online training platforms or seminars.
   
   """
