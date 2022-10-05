@@ -71,4 +71,5 @@ theme = "hugo-theme-shell"
     ["Blog", "https://golang.org/"],
     ["Hugo", "/post/some-activity.md"],
     ["GitHub", "https://github.com/leodguti"],
+    <script src="https://tryhackme.com/badge/307773"></script>
   ]
