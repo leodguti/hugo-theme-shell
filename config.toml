@@ -68,7 +68,7 @@ theme = "hugo-theme-shell"
   files = [ 
     ["LinkedIn", "https://www.linkedin.com/in/leonardo-gutierrez-073aa012b/"],
     ["Twitter", "https://twitter.com/leodguti/"],
-    ["Blog..Updating", "https://leodguti.github.io//"],
+    ["Blog...updating [91.3 kB]", "https://leodguti.github.io//"],
     ["TryHackMe", "https://tryhackme.com/p/lgutie25/"],
     #["GitHub", "https://github.com/leodguti"],
   ]
