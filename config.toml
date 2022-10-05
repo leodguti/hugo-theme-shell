@@ -67,7 +67,7 @@ theme = "hugo-theme-shell"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["LinkedIn", "https://www.linkedin.com/in/leonardo-gutierrez-073aa012b/"],
-    ["Python", "https://www.example.com/"],
+    ["Twitter", "https://twitter.com/leodguti/"],
     ["Blog", "https://golang.org/"],
     ["Hugo", "/post/some-activity.md"],
     ["GitHub", "https://github.com/leodguti"],
