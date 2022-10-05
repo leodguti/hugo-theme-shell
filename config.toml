@@ -68,8 +68,7 @@ theme = "hugo-theme-shell"
   files = [ 
     ["LinkedIn", "https://www.linkedin.com/in/leonardo-gutierrez-073aa012b/"],
     ["Twitter", "https://twitter.com/leodguti/"],
-    ["Blog", "https://golang.org/"],
-    ["Hugo", "/post/some-activity.md"],
+    ["Blog..Updating", "https://amrrc.com/wp-content/uploads/2021/03/update-meme.jpg/"],
+    ["TryHackMe", "https://tryhackme.com/p/lgutie25/"],
     ["GitHub", "https://github.com/leodguti"],
-    <script src="https://tryhackme.com/badge/307773"></script>
   ]
