@@ -52,11 +52,7 @@ theme = "hugo-theme-shell"
   # activityDelay = 5 : deprecated
 
   description = """
-Hello! My name is Leonardo,
-I'm generally interested in threat hunting, and I work primarily as a System Administrator while continuing to hone my Python and PowerShell scripting skills. 
-While attempting to break into the Information Security industry, I am pursuing my AAS in Cyber Security.
-In addition, I participate in TryHackMe and other online training platforms or seminars.
-  
+Hello! My name is Leonardo, and I work as an Associates Detection and Response Analyst, focusing on improving my threat hunting and incident response skills. I'm looking forward to in-person CTFs as I continue my open source online training journey.
   """
 
   # Note: If you want to use a Markdown file, you can use the following
