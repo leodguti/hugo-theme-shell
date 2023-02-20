@@ -52,7 +52,7 @@ theme = "hugo-theme-shell"
   # activityDelay = 5 : deprecated
 
   description = """
-Hello! My name is Leonardo, and I work as an Associates Detection and Response Analyst, focusing on improving my threat hunting and incident response skills. I'm looking forward to in-person CTFs as I continue my open source online training journey.
+Hello! My name is Leonardo, and I work as an Associates Detection and Response Analyst, focusing on improving my threat hunting and incident response skills. I look forward to in-person CTFs as I continue my open source training journey.
   """
 
   # Note: If you want to use a Markdown file, you can use the following
