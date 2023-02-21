@@ -27,7 +27,7 @@ theme = "hugo-theme-shell"
   # Note: result of the tree command
   userName = "leo"
   pcName = "ubuntu"
-  workDir = "mydir"
+  workDir = "/dev/null"
   profile = "aboutme.txt"
 
   # Note: speed at which text is displayed on the terminal
