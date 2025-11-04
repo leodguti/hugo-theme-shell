@@ -52,7 +52,7 @@ theme = "hugo-theme-shell"
   # activityDelay = 5 : deprecated
 
   description = """
-Hello! My name is Leonardo, and I work as an SOC Analyst, focusing on improving my threat hunting and incident response skills. I look forward to in-person CTFs as I continue my open source training journey.
+Hello! My name is Leonardo, and I’m an SOC Analyst passionate about cloud forensics and research—particularly everything related to Microsoft and Azure. I focus on incident response and enjoy exploring the evolving landscape of cloud security.
   """
 
   # Note: If you want to use a Markdown file, you can use the following
@@ -68,5 +68,5 @@ Hello! My name is Leonardo, and I work as an SOC Analyst, focusing on improving 
     ["Twitter", "https://twitter.com/leodguti/"],
     #["Blog...updating", "https://leodguti.github.io//"],
     ["TryHackMe", "https://tryhackme.com/p/leodguti"],
-    #["Resume", "https://1drv.ms/b/s!AjvU20VGYvxw5hBnWof1YtAySrE8/"],
+    ["Featured", "https://www.rapid7.com/blog/post/2024/06/27/supply-chain-compromise-leads-to-trojanized-installers-for-notezilla-recentx-copywhiz/"],
   ]
