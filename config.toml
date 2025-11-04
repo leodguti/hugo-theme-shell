@@ -52,7 +52,7 @@ theme = "hugo-theme-shell"
   # activityDelay = 5 : deprecated
 
   description = """
-Hello! My name is Leonardo, and I’m an SOC Analyst passionate about cloud forensics and research—particularly everything related to Microsoft and Azure. I focus on incident response and enjoy exploring the evolving landscape of cloud security.
+Hello! I’m Leonardo — an SOC Analyst with a passion for cloud forensics, particularly Azure, and the thrill of incident response. From time to time, I also dabble in malware research. Always learning and evolving. This space is meant to share thoughts, research, and insights that might help others tackling similar challenges.
   """
 
   # Note: If you want to use a Markdown file, you can use the following
